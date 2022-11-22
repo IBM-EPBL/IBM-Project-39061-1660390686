@@ -58,7 +58,7 @@
       <p>Team member3 : <strong>VIGNESHWAR R</strong></p>
    <br />
     <br />
-    <a href="https://github.com/IBM-EPBL/IBM-Project-39061-1660390686"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-39061-1660390686/tree/main/Assessment"><strong>Explore the docs »</strong></a>
     <br />
     <br />
    
